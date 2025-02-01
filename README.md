@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">I'm immersed in ML 🤖, Data Science, multi-language development (Python 🐍, Java ☕, C++ ), full-stack development 🌐, DevOps  & cybersecurity 🔒.</h3>
+<h4 align="left">I'm immersed in ML 🤖, Data Science, multi-language development (Python 🐍, Java ☕, C++ ), full-stack development 🌐, DevOps  & cybersecurity 🔒.</h4>
 
 ###
 
-<h3 align="left">My mission? To architect production-grade ML systems that fuse deep learning 🧠, reinforcement learning 🎯, and distributed computing ⚙️ for scalable, real-time, and explainable AI applications!</h3>
+<h4 align="left">My mission? To architect production-grade ML systems that fuse deep learning 🧠, reinforcement learning 🎯, and distributed computing ⚙️ for scalable, real-time, and explainable AI applications!</h4>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/f2/6f/f1/f26ff1ec69526569000e26cb8f05422e.gif"  />
+<img align="right" height="200" src="https://gifdb.com/images/high/psychedelic-black-cat-2mab8hlmxlus93qi.webp"  />
 
 ###
 
@@ -82,18 +82,3 @@
 <img src="https://raw.githubusercontent.com/atharhive/atharhive/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<!--
-**atharhive/atharhive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
