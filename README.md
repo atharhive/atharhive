@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Athar – a grad student at IIT Madras (1st year) 🎓.</h2>
+<h2 align="left">Hi 👋! I'm Athar – a grad student at IIT Madras (2nd year) 🎓.</h2>
 
 ###
 
